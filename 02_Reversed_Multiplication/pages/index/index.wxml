@@ -1,0 +1,10 @@
+<scroll-view scroll-y="true" style="height: 100vh;">
+  <view wx:for="{{array}}"> {{item}} </view>
+  <view wx:for="{{[9,8,7,6,5,4,3,2,1]}}" wx:for-item="i">
+     <view wx:for="{{[9,8,7,6,5,4,3,2,1]}}" wx:for-item="j">
+           <view>
+           {{i}}*{{j}}={{i*j}}
+           </view>
+     </view>
+  </view>
+</scroll-view>

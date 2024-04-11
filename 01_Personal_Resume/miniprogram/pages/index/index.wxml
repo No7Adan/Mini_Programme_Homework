@@ -1,0 +1,111 @@
+<!-- index.wxml -->
+<view class="container">
+  <!-- 头像和自我介绍 -->
+  <view class="intro">
+    <image class="avatar" src="/images/avatar.jpg" mode="aspectFill"></image>
+    <view class="name">綦昊</view>
+    <view class="desc">在院团总支学生会主席团任职两年，参与组织各类活动。作为队长参加计算机设计大赛和大学生创业大赛均为国家级奖项。掌握较多编程语言的基本应用，AIGC提示词调试，媒体处理技术。有较为丰富的计算机操作和问题解决经验，英语专业四级优秀。在校综合测评成绩班级前三。学习能力强，兴趣广泛，善于沟通，乐于挑战。</view>
+  </view>
+  <!-- 基本信息 -->
+  <view class="section">
+    <view class="title">基本信息</view>
+    <view class="content">
+      <view class="item">
+        <text class="label">性别：</text>
+        <text class="value">男</text>
+      </view>
+      <view class="item">
+        <text class="label">年龄：</text>
+        <text class="value">21</text>
+      </view>
+      <view class="item">
+        <text class="label">电话：</text>
+        <text class="value">13888888888</text>
+      </view>
+      <view class="item">
+        <text class="label">邮箱：</text>
+        <text class="value">adanqi@foxmail.com</text>
+      </view>
+      <view class="item">
+        <text class="label">地址：</text>
+        <text class="value">北京市海淀区</text>
+      </view>
+    </view>
+  </view>
+  <!-- 学生经历 -->
+  <view class="section">
+    <view class="title">学生经历</view>
+    <view class="content">
+      <view class="item">
+        <text class="label">学校：</text>
+        <text class="value">北京语言大学</text>
+      </view>
+      <view class="item">
+        <text class="label">专业：</text>
+        <text class="value">翻译（本地化）</text>
+      </view>
+      <view class="item">
+        <text class="label">学历：</text>
+        <text class="value">本科</text>
+      </view>
+      <view class="item">
+        <text class="label">时间：</text>
+        <text class="value">2021.09 - 2025.06</text>
+      </view>
+      <view class="item">
+        <text class="label">成绩：</text>
+        <text class="value">GPA 3.71 / 4.0</text>
+      </view>
+      <view class="item">
+        <text class="label">荣誉：</text>
+        <text class="value">校优秀团干部</text>
+      </view>
+    </view>
+  </view>
+  <!-- 工作经历 -->
+  <view class="section">
+    <view class="title">工作经历</view>
+    <view class="content">
+      <view class="item">
+        <text class="label">公司：</text>
+        <text class="value">小米公司</text>
+      </view>
+      <view class="item">
+        <text class="label">职位：</text>
+        <text class="value">术语优化项目经理</text>
+      </view>
+      <view class="item">
+        <text class="label">时间：</text>
+        <text class="value">2023.09 - 至今</text>
+      </view>
+      <view class="item">
+        <text class="label">项目：</text>
+        <text class="value">小米汽车术语优化项目</text>
+      </view>
+      <view class="item">
+        <text class="label">职责：</text>
+        <text class="value">负责小米公司法务部内容管理办公室术语优化项目的英语术语优化任务，第一学期管理优化进程并撰写术语优化指南，第二学期担任小米汽车术语项目经理，带领并统筹10人团队进行项目。</text>
+      </view>
+    </view>
+  </view>
+  <!-- 能力 -->
+  <view class="section">
+    <view class="title">能力</view>
+    <view class="content">
+      <view class="item">
+        <text class="label"> </text>
+        <text class="value">•	PHP，JS，Python，HTML，CSS，C++等编程语言的基本应用
+•	英语专业四级优秀
+•	本地化项目管理经验
+•	PR，PS，AE等各类媒体处理技术
+•	MemoQ, Smartcat等计算机辅助翻译工具使用
+•	基于正则表达式、GPT和CAT工具的术语抽取
+•	ChatGPT类AIGC提示词调试
+•	数据库和服务器的基础应用操作
+•	较为丰富的计算机操作和问题解决经验
+•	文本表格等信息优化处理，办公软件使用
+</text>
+      </view>
+    </view>
+  </view>
+</view>
