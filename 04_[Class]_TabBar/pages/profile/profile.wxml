@@ -1,0 +1,9 @@
+<!-- profile.wxml -->
+<view class="container">
+  <view class="profile-info">
+    <image class="avatar" src="/images/avatar.jpg"></image>
+    <view class="username">用户名：Adan</view>
+    <view class="email">邮箱：adanqi@foxmaili.com</view>
+  </view>
+  <view class="logout">退出登录</view>
+</view>

@@ -1,0 +1,6 @@
+<!-- index.wxml -->
+<view class="container">
+  <image class="logo" src="/images/logo.png"></image>
+  <view class="welcome-text">欢迎来到新闻小程序</view>
+  <view class="description">这里是一个展示新闻的小程序，希望您能喜欢！</view>
+</view>
